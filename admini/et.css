@@ -1,0 +1,16 @@
+/* General styles for LTR */
+.ltr #greeting {
+    text-align: left;
+}
+
+/* General styles for RTL */
+.rtl #greeting {
+    text-align: right;
+}
+
+/* Additional styles for container */
+#container {
+    border: 1px solid #000;
+    padding: 20px;
+    width: 200px;
+}
